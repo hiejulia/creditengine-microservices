@@ -1,5 +1,4 @@
-# creditengine-microservices
-
+## Credit engine project 
 
 
 ### Project structure 

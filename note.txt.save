@@ -1,0 +1,7 @@
+1. Hystrix 
+@EnableCircuitBreaker to enable Hystrix pattern use. 
+To use Hystrix , it can be use with class @Service, @Component
++ 
+
+CD - CI pipeline 
++ Jenkins, from github repo
